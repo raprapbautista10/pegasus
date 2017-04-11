@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>Pegasus Management Group</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Leveraged buyout, Private equity fund, Merger, Acquisition, M&A, Venture capital, Manufacturing, Distribution, Direct marketing, Middle market, Investment, Patrick Whelan, Pegasus Management Group, Santa Monica, California">
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<link rel="stylesheet" href="stylesheet_one.css" type="text/css">
+</head>
+
+<body bgcolor="#FFFFCC" text="#000000" background="../images/grn_bg.gif" topmargin="75" leftmargin="175">
+<div id="Layer1" style="position:absolute; left:0; top:10; width:175; z-index:1"><img src="../images/pegasus_logo.gif" width="125" height="165" hspace="25"></div>
+<div id="Layer2" style="position:absolute; left:175; top:10; width:630; height:45; z-index:2"> 
+  <table width="630" align="center" cellpadding="5">
+    <tr> 
+      <td align="center" valign="middle"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+          <param name=movie value="../home.swf">
+          <param name=quality value=high>
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <embed src="../home.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+          </embed> 
+        </object> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+          <param name=movie value="../overview.swf">
+          <param name=quality value=high>
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <embed src="../overview.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+          </embed> 
+        </object> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+          <param name=movie value="../aquisition.swf">
+          <param name=quality value=high>
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <embed src="../aquisition.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+          </embed> 
+        </object> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+          <param name=movie value="../portfolio.swf">
+          <param name=quality value=high>
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <embed src="../portfolio.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+          </embed> 
+        </object> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+          <param name=movie value="../management.swf">
+          <param name=quality value=high>
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <embed src="../management.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+          </embed> 
+        </object> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+          <param name=movie value="../contact.swf">
+          <param name=quality value=high>
+          <param name="BASE" value=".">
+          <param name="BGCOLOR" value="">
+          <embed src="../contact.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+          </embed> 
+        </object></td>
+    </tr>
+  </table>
+</div>
+<!-- #BeginEditable "Body" --> <!-- #EndEditable --> 
+<div align="center">
+  <div align="left">
+    <p class="heading">&nbsp;</p>
+  </div>
+</div>
+
+</body>
+</html>

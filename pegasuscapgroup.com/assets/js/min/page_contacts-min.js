@@ -1,0 +1,1 @@
+var ContactPage=function(){return{initMap:function(){var a;$(document).ready(function(){a=new GMaps({div:"#map",scrollwheel:!1,lat:40.748866,lng:-73.988366,title:"Pegasus Capital Group"});var t=a.addMarker({lat:40.748866,lng:-73.988366,title:"Pegasus Capital Group"})})}}}();

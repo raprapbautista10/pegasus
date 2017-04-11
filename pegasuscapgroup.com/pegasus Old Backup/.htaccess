@@ -1,0 +1,16 @@
+# -FrontPage-
+    
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+        
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName www.pegasusmgmt.com
+AuthUserFile /www/htdocs/domains/s8/01239/www.pegasusmgmt.com/webdocs/_vti_pvt/service.pwd
+AuthGroupFile /www/htdocs/domains/s8/01239/www.pegasusmgmt.com/webdocs/_vti_pvt/service.grp
